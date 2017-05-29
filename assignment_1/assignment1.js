@@ -13,7 +13,7 @@ Using the loop provided for you below, use an array's push method to insert the 
 for(var i=0;i<10;i++){
     //use the array push() method here.
 }
-
+console.log = (i)
 
 /*
 Exercise #3
