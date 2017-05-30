@@ -26,7 +26,7 @@ console.log(numbers[6]);
 var a = numbers[3];
 var b = numbers[6];
 var c = a + b;
-    console.log(c);
+console.log(c);
 
 /*
 Exercise #4
