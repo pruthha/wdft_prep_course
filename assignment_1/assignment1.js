@@ -30,16 +30,15 @@ console.log(c);
 
 /*
 Exercise #4
-Use the console.log() function and the array .pop() to add all the values in the array.
+Use the console.log() function and the array .pop() to remove all the values in the array.
 */
 
 var sum = 0;
-/* remove this line to uncomment the code block
+
 while(numbers.length != 0){
-    //write pop function here
+    numbers.pop();
 }
-remove this line to uncomment the code block */
-console.log(sum);
+console.log(numbers);
 
 
 /*
