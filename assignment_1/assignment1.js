@@ -21,9 +21,12 @@ Exercise #3
 Test that you used the array push method correctly by printing the sum of the values at position 3 and 6 of the array (use the console.log() function to print to the console). 
 The outputted value should be 9.
 */
-
-
-
+console.log(numbers[3]);
+console.log(numbers[6]);
+var a = numbers[3];
+var b = numbers[6];
+var c = a + b;
+    console.log(c);
 
 /*
 Exercise #4
