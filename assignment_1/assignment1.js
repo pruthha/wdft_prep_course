@@ -40,7 +40,6 @@ while(numbers.length != 0){
 }
 console.log(numbers);
 
-
 /*
 Exercise #5
 Create an empty object and assign it the variable car below.
