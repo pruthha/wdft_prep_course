@@ -1,6 +1,4 @@
-var numbers = [];
-for (var a = 0; a < 1000; a++){
-    console.log(a);
-    numbers.push(a);
-}
-console.log(numbers);
+var str = "Apple, Banana, Kiwi";
+var res = str.slice(7, 13);
+console.log(res);
+console.log(str);
