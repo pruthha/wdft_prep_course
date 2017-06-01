@@ -1,4 +1,5 @@
-var str = "Apple, Banana, Kiwi";
-var res = str.slice(7, 13);
-console.log(res);
-console.log(str);
+var i;
+for (i = 1; i < 10; i = i + 2){
+	i += 1 + i
+}
+console.log(i);
