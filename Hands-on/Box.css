@@ -1,0 +1,23 @@
+  .box1{border-style:dotted;
+        border-color:white;
+        border-width:2px;
+        background-color:#A4A4A4;color:white;
+        margin-top: 50px;
+        margin-bottom: 30px;
+        margin-right: 925px;
+        margin-left: 70px;
+        padding:10px 20px;
+  }
+           
+
+  .box2{border-style:dotted;
+        border-color:white;
+        border-width:2px;
+        background-color:#A7A7A7;color:white;
+        margin-top: 15px;
+        margin-bottom: 800px;
+        margin-right: 925px;
+        margin-left: 70px;
+        padding:10px 20px;
+  }
+
