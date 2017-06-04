@@ -1,0 +1,11 @@
+.box{
+    background-color: red;
+    display:inline-block;
+    width:150px;
+    height:150px;
+    margin:5px;
+
+}
+.float{
+    clear:left
+}
