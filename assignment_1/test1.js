@@ -28,24 +28,24 @@ console.log(answer2);
 
 var x  = 12;
 console.log(x+1);
-y = String(x);
+var y = String(x);
 console.log(y+1);
 
 var x = "113";
 console.log(x+1);
-y = parseInt(x);
+var y = parseInt(x);
 console.log(y+1);
 
 
 
 var x = "1.12356";
 console.log(x+1);
-y = parseFloat(x);
+var y = parseFloat(x);
 console.log(y+1);
 
 
 var a = "Hello World";
-x = parseInt(a);
+var x = parseInt(a);
 console.log(x);
 
 
